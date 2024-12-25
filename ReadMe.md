@@ -47,16 +47,15 @@ Welcome to my GitHub profile! I'm a **Data Analyst** with expertise in **Excel, 
 ---
 
 ## 🎓 **Certifications**
-- **Mastering Python: Pandas and NumPy**  
-- **The Complete MySQL Bootcamp**  
-- **Essential Excel for Analysts**
+- **Mastering Python: Pandas and NumPy**  [Click]([https://www.linkedin.com/in/bushra092](https://www.udemy.com/certificate/UC-19d2b0c3-2d94-483c-9313-5d4f838dc5f2/))
+- **The Complete MySQL Bootcamp**         [Click]([https://www.linkedin.com/in/bushra092](https://www.udemy.com/certificate/UC-31d73ae8-7d74-41a5-95d5-bd456090c1f9/))
+- **Essential Excel for Analysts**        [Click]([https://www.linkedin.com/in/bushra092](https://www.udemy.com/certificate/UC-6db4d149-744f-49e6-acf4-0d0a14dea30f/))
 
 ---
 
 ## 📫 **Get in Touch**
 - **LinkedIn:** [Bushra](https://www.linkedin.com/in/bushra092)  
-- **Twitter:** [@Bushra092](https://twitter.com/Bushra092)  
-- **Email:** [bushrakhan092@outlook.com](mailto:bushrakhan092@outlook.com)
+- **Email:** [bushrakhan57507@gmail.com](mailto:bushrakhan57507@gmail.com)
 
 ---
 
