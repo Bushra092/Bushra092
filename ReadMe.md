@@ -14,7 +14,9 @@ Welcome to my GitHub profile! I'm a **Data Analyst** with expertise in **Excel, 
 
 ### 🗄️ Database Management
 - Experienced in **SQL queries**.
-- ## 🗄️ RDBMS: **MySQL database**, and **PostgreSQL**
+- ##### 🗄️ RDBMS:
+     **MySQL database**, and **PostgreSQL**
+ 
 ### 💻 Programming
 - Proficient in **Python** (libraries like **Pandas**, **NumPy**) for data manipulation and analysis.
 
