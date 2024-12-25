@@ -56,7 +56,3 @@ Welcome to my GitHub profile! I'm a **Data Analyst** with expertise in **Excel, 
 ## 📫 **Get in Touch**
 - **LinkedIn:** [Bushra](https://www.linkedin.com/in/bushra092)  
 - **Email:** [bushrakhan57507@gmail.com](mailto:bushrakhan57507@gmail.com)
-
----
-
-*This README was crafted with 💡 and passion for data analysis.*
