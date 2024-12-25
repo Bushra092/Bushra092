@@ -13,8 +13,8 @@ Welcome to my GitHub profile! I'm a **Data Analyst** with expertise in **Excel, 
 - Skilled in creating **interactive dashboards and visual reports** using **Power BI**.
 
 ### 🗄️ Database Management
-- Experienced in **SQL queries**, **database design**, and **management**.  
-
+- Experienced in **SQL queries**.
+- ## 🗄️ RDBMS: **MySQL database**, and **PostgreSQL**
 ### 💻 Programming
 - Proficient in **Python** (libraries like **Pandas**, **NumPy**) for data manipulation and analysis.
 
@@ -23,28 +23,6 @@ Welcome to my GitHub profile! I'm a **Data Analyst** with expertise in **Excel, 
 
 ---
 
-## 📈 **Projects**
-### Retail Sales Data Analysis  
-- **Tools:** SQL, Power BI  
-- **Key Achievements:**  
-  - Analyzed sales data to identify patterns and trends.  
-  - Designed a **dashboard** that improved marketing strategies by 15%.  
-  - Increased annual profit by 3%.  
-
-### Recruitment Dashboard Insights  
-- **Tools:** Power BI  
-- **Key Achievements:**  
-  - Built a dashboard for analyzing recruitment data of 1,500 candidates.  
-  - Improved recruitment efficiency with a **31% hire rate**.  
-  - Identified rejection trends to refine hiring strategies.  
-
-### Employee Attrition Analysis  
-- **Tools:** Power BI  
-- **Key Achievements:**  
-  - Visualized data for 1,470 employees, uncovering a **16.1% attrition rate**.  
-  - Developed strategies to reduce attrition among low-salary groups.  
-
----
 
 ## 🎓 **Certifications**
 - **Mastering Python: Pandas and NumPy**  [Click](https://www.udemy.com/certificate/UC-19d2b0c3-2d94-483c-9313-5d4f838dc5f2/)
